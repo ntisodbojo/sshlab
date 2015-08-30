@@ -118,7 +118,7 @@ Sen ska vi kommentera bort raden @include common-auth
 
 ### SSH Daemonen
 
-sudo /etc/ssh/sshd_config
+	$ sudo nano /etc/ssh/sshd_config
 
 Ändra raden ChallengeResponseAuthentication från no till yes
 	
