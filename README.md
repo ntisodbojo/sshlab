@@ -155,12 +155,15 @@ Logga ut
 
 	$ exit
 	
+Om ni har använt su för att byta användarem byter exit ett steg tillbak, upprepa tills ni kommit ur den virtuella maskinen.	
+	
 Prova att logga in igen 
 
 	$ ssh <username>@<public ip>
-	
-	
 
+När prompten frågor efter er verifikationskod, kolla på mobile i googgle authenticator	
+	
+Lycka till!
 
 
 
