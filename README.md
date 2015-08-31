@@ -12,7 +12,7 @@ Vi kan behöva ändra hostname på era virtuella maskiner så att det är lätta
 
 Nu startar vi. Ladda ner projektet till er labfolder.
 
-	$ git https://github.com/ntisodbojo/sshlab.git
+	$ git clone https://github.com/ntisodbojo/sshlab.git
 
 cd in till labben.
 
